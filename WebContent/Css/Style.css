@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+.CAT
+{
+	margin-left: auto;
+	margin-right: auto;
+	table-layout: auto;
+	text-align: left;
+}
+
+.SearchLink
+{
+	margin-left: auto;
+	margin-right: auto;
+	table-layout: auto;
+	text-align: center;
+	text-decoration: underline;
+	margin-top: 60px;
+}
+
+.RAT
+{
+	margin-left: auto;
+}
+
+.LAT
+{
+	margin-right: auto;
+}

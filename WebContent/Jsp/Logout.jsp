@@ -1,0 +1,11 @@
+<html>
+<script>
+  javascript:window.history.forward(1);
+</script>
+<body>
+<% 
+	session.invalidate();
+	response.sendRedirect("UserLogin.jsp");	
+%> 
+</body>
+</html>
